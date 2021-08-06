@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BnBjybAFbDEpSvT10mw2+H4PvrVHRmXgBpVLmAsy8GGuLl457zkiaU8Bi5rocI6ixie8mN+9BQk6Cfa1MWDFHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kawem\\source\\repos\\HealthApi\\ClientApp\\ClientApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kawem\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\kawem\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\kawem\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\kawem\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
